@@ -1,8 +1,10 @@
-# Enunciado
+# Atividade Prática do Módulo 2 (Bootcamp IGTI - Desenvolvedor Full Stack)
+
+## Enunciado
 
 O aluno deverá criar um projeto Node.js para realizar a criação de alguns métodos e processamento de arquivos JSON.
 
-# Atividades
+## Atividades
 
 O aluno deverá baixar os arquivos Cidades.json e Estados.json do link a seguir (https://github.com/felipefdl/cidades-estados-brasil-json (Links para um site externo.)) e colocá-los dentro do seu projeto. O arquivo Estados.json possui uma listagem com todos os estados do Brasil, cada um representado por um ID. No arquivo Cidades.json estão listadas todas as cidades do Brasil, com seu respectivo estado representando pelo ID fazendo referência ao arquivo Estados.json.
 
