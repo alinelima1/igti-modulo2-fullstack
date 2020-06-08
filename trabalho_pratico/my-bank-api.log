@@ -1,0 +1,244 @@
+2020-06-08T01:19:07.960Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:19:31.558Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:20:07.145Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:20:13.999Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:20:32.663Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:20:34.626Z [my-bank-api] info: Criando arquivo AC.json
+2020-06-08T01:20:34.627Z [my-bank-api] info: Criando arquivo AL.json
+2020-06-08T01:20:34.628Z [my-bank-api] info: Criando arquivo AM.json
+2020-06-08T01:20:34.629Z [my-bank-api] info: Criando arquivo AP.json
+2020-06-08T01:20:34.630Z [my-bank-api] info: Criando arquivo BA.json
+2020-06-08T01:20:34.632Z [my-bank-api] info: Criando arquivo CE.json
+2020-06-08T01:20:34.633Z [my-bank-api] info: Criando arquivo DF.json
+2020-06-08T01:20:34.634Z [my-bank-api] info: Criando arquivo ES.json
+2020-06-08T01:20:34.635Z [my-bank-api] info: Criando arquivo GO.json
+2020-06-08T01:20:34.636Z [my-bank-api] info: Criando arquivo MA.json
+2020-06-08T01:20:34.637Z [my-bank-api] info: Criando arquivo MG.json
+2020-06-08T01:20:34.638Z [my-bank-api] info: Criando arquivo MS.json
+2020-06-08T01:20:34.639Z [my-bank-api] info: Criando arquivo MT.json
+2020-06-08T01:20:34.639Z [my-bank-api] info: Criando arquivo PA.json
+2020-06-08T01:20:34.640Z [my-bank-api] info: Criando arquivo PB.json
+2020-06-08T01:20:34.640Z [my-bank-api] info: Criando arquivo PE.json
+2020-06-08T01:20:34.641Z [my-bank-api] info: Criando arquivo PI.json
+2020-06-08T01:20:34.642Z [my-bank-api] info: Criando arquivo PR.json
+2020-06-08T01:20:34.642Z [my-bank-api] info: Criando arquivo RJ.json
+2020-06-08T01:20:34.643Z [my-bank-api] info: Criando arquivo RN.json
+2020-06-08T01:20:34.643Z [my-bank-api] info: Criando arquivo RO.json
+2020-06-08T01:20:34.644Z [my-bank-api] info: Criando arquivo RR.json
+2020-06-08T01:20:34.644Z [my-bank-api] info: Criando arquivo RS.json
+2020-06-08T01:20:34.645Z [my-bank-api] info: Criando arquivo SC.json
+2020-06-08T01:20:34.646Z [my-bank-api] info: Criando arquivo SE.json
+2020-06-08T01:20:34.646Z [my-bank-api] info: Criando arquivo SP.json
+2020-06-08T01:20:34.647Z [my-bank-api] info: Criando arquivo TO.json
+2020-06-08T01:20:35.641Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:21:52.209Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:21:54.547Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:21:57.014Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:22:41.317Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:24:44.793Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:25:22.247Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:25:43.586Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:25:52.896Z [my-bank-api] error: ENOENT: no such file or directory, open './json/{req.params.state}.json'
+2020-06-08T01:26:07.898Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:26:09.635Z [my-bank-api] error: ENOENT: no such file or directory, open './json/{req.params.state}.json'
+2020-06-08T01:26:42.844Z [my-bank-api] error: ENOENT: no such file or directory, open './json/{req.params.state}.json'
+2020-06-08T01:26:45.999Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:26:51.602Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:26:55.362Z [my-bank-api] error: ENOENT: no such file or directory, open './json/{req.params.state}.json'
+2020-06-08T01:27:45.230Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:27:46.934Z [my-bank-api] error: ENOENT: no such file or directory, open './json/{req.params.state}.json'
+2020-06-08T01:28:21.390Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:28:22.933Z [my-bank-api] info: Este arquivo contem ${jsonEstadoSelecionado.length} cidades
+2020-06-08T01:28:44.480Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:28:45.958Z [my-bank-api] info: Este arquivo contem ${jsonEstadoSelecionado.length} cidades
+2020-06-08T01:29:02.103Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:29:03.847Z [my-bank-api] info: Este arquivo contem 853 cidades.
+2020-06-08T01:29:27.317Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:29:30.560Z [my-bank-api] info: Este arquivo contem 853 cidades.
+2020-06-08T01:29:37.749Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T01:42:51.782Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:42:56.448Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T01:43:23.011Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:43:24.696Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T01:43:24.727Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.740Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.744Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.746Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.748Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.751Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.755Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.757Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.758Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.760Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.761Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.762Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.764Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.765Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.767Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.769Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.770Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.771Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.773Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.774Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.775Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.777Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.778Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.779Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.781Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.782Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:43:24.784Z [my-bank-api] info: Criando vetor com totais
+2020-06-08T01:44:16.998Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:44:20.268Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T01:44:20.307Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T01:44:49.470Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:44:51.576Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T01:44:51.621Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T01:45:46.390Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:46:02.745Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T01:46:02.764Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T01:46:37.092Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:46:39.514Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T01:46:39.540Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T01:47:55.372Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:49:00.792Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:49:58.950Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:50:05.314Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:50:45.641Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:50:52.673Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:50:53.874Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:50:58.080Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T01:50:58.101Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T01:51:15.693Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:51:17.381Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T01:51:17.407Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T01:52:02.103Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:52:22.834Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:52:25.448Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T01:52:25.474Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T01:52:58.694Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:53:04.027Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T01:53:04.056Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T01:53:53.982Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:57:52.470Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T01:58:13.143Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:00:10.436Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:03:16.122Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:08:10.227Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:12:09.464Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:12:43.510Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:13:34.691Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:16:29.075Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:16:31.562Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:16:34.102Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:16:34.131Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:17:24.138Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:17:27.289Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:17:30.922Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:17:30.944Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:17:50.725Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:19:08.311Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:19:35.344Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:19:45.071Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:19:47.821Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:19:47.840Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:20:14.868Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:20:19.910Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:20:22.597Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:20:22.618Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:20:22.632Z [my-bank-api] error: maior is not defined
+2020-06-08T02:20:57.279Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:21:02.244Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:21:02.264Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:21:51.194Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:21:55.419Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:21:55.458Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:23:07.954Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:23:10.520Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:23:10.552Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:23:10.569Z [my-bank-api] error: maior is not defined
+2020-06-08T02:23:31.995Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:23:50.335Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:24:14.275Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:24:14.298Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:24:14.311Z [my-bank-api] error: maior is not defined
+2020-06-08T02:25:04.145Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:25:07.566Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:25:10.347Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:25:10.373Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:25:10.390Z [my-bank-api] error: maior is not defined
+2020-06-08T02:25:20.665Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:25:20.694Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:25:20.708Z [my-bank-api] error: maior is not defined
+2020-06-08T02:26:48.588Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:27:29.988Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:27:38.103Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:27:41.504Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:27:41.527Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:27:41.528Z [my-bank-api] error: maior is not defined
+2020-06-08T02:28:07.749Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:28:11.211Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:28:11.243Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:30:28.972Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:30:50.177Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:32:23.416Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:32:56.257Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:33:15.424Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:33:23.480Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:33:26.269Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:33:31.666Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:33:31.689Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:34:01.302Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:34:02.520Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:34:02.549Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:35:54.485Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:36:28.748Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:36:32.256Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:36:32.279Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:36:43.903Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:36:45.464Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:36:45.489Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:37:09.042Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:37:44.217Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:37:46.720Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:37:46.743Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:39:55.414Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:42:09.173Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:42:11.508Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:42:11.532Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:42:11.533Z [my-bank-api] error: Cannot read property 'length' of undefined
+2020-06-08T02:43:00.095Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:43:40.890Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:44:02.985Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:44:05.294Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:44:05.324Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:44:05.324Z [my-bank-api] error: Cannot read property 'length' of undefined
+2020-06-08T02:45:15.586Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:45:19.797Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:45:19.820Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:45:19.822Z [my-bank-api] error: Cannot read property 'length' of undefined
+2020-06-08T02:45:42.418Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:45:43.874Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:45:43.894Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:45:43.895Z [my-bank-api] error: Cannot read property 'length' of undefined
+2020-06-08T02:46:00.016Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:47:36.111Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:47:38.393Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:47:38.424Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:48:54.910Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:49:22.969Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:49:24.616Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:49:24.636Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:49:36.506Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:49:38.745Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:49:38.773Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:50:34.347Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:50:40.693Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:50:41.885Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:50:41.909Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:51:03.935Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:51:06.007Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:51:06.028Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T02:52:19.468Z [my-bank-api] info: Aplicação executando na porta 3000.
+2020-06-08T02:52:22.613Z [my-bank-api] info: Este arquivo contem 645 cidades.
+2020-06-08T02:52:22.637Z [my-bank-api] info: Vetor criado com totais
+2020-06-08T03:06:53.382Z [my-bank-api] error: EIO: i/o error, write
