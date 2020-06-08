@@ -1,5 +1,6 @@
-.aula2.2/node_modules
-.trabalho_pratico/node_modules
-.my-bank-api/node_modules
+aula2.2/node_modules
+trabalho_pratico/node_modules
+my-bank-api/node_modules
+my-bank-api/my-bank-api.log
 .vscode/
 
